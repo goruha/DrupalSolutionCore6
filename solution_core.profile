@@ -7,7 +7,7 @@
  *   An array of modules to enable.
  */
 function solution_core_profile_modules() {
-  return array('drush_migrate', 'solution', 'menu', 'taxonomy', 'dblog');
+  return array('drush_migrate', 'solution', 'menu', 'taxonomy', 'dblog', 'environment');
 }
 
 /**
