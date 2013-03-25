@@ -14,4 +14,4 @@ projects[solution][download][url] = git://github.com/goruha/DrupalSolution6.git
 ;projects[]=diff
 
 projects[environment][version]="1.x-dev"
-;projects[environment][patch][] = "http://drupal.org/files/drush_same_environment_notice.patch"
+projects[environment][patch][] = "http://drupal.org/files/drush_same_environment_notice.patch"
